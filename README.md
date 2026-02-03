@@ -14,6 +14,8 @@ For the detailed usage of `pass`, RTFM.
 
 ## Extension
 
+To calculate TOTP, install [pass-otp](https://github.com/tadfisher/pass-otp) on your system. System-wide extensions are always enabled.
+
 Set environment variable `PASSWORD_STORE_ENABLE_EXTENSIONS` to `true` allows `pass` to use our [`.extension`](./.extension) scripts. RTFSC for their usages.
 
 ## Public Keys
