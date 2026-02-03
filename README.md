@@ -24,7 +24,3 @@ Everyone who can decrypt this credential storage must place a copy of the public
 
 >[!note]
 > Do not use suffix `.gpg`, as `pass` will see it as a password file, attempt to decrypt it and fail. Use `.pgp`, for example.
-
-## Footnote
-
-Please hack us.
